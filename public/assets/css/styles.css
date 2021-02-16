@@ -1,15 +1,6 @@
 /* importing google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
-/* *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif, 'Segoe UI', Tahoma, verdana;
-} */
-
-
-
 .header {
   background-image: url(../images/dubai.jpg);
   opacity: 80%;
@@ -135,24 +126,6 @@ button {
     align-items: center;
 }
 
-a button:hover {
-    transform: scale(1.25);
-}
-
-/*Delete Button Styling*/
-/* .delete {
-    padding:5px;
-    background-color: rgb(211, 162, 162);
-    margin-top: 7px;
-    margin-left: 0px;
-    -webkit-transition: 0.3s ease-in-out;
-    -webkit-transform: 0.3s ease-in-out;
-    -moz-transition: 0.3s ease-in-out;
-    -moz-transform: 0.3s ease-in-out;
-    transition: 0.3s ease-in-out;
-    transform: 0.3s ease-in-out;
-} */
-
 button:hover {
     transform: scale(1.07);
 }
@@ -223,8 +196,6 @@ textarea {
     transition: 0.3s ease-in-out;
     transform: 0.3s ease-in-out;
 }
-
-
 
 /* Footer Styling*/
 footer {
